@@ -15,7 +15,7 @@ a lightweight cross platform GUI system with pure algorithm
     QuickJS https://bellard.org/quickjs/
     SDL http://www.libsdl.org/
 
-## Todos
+### Todos
 
 - [x] MVC
 
@@ -48,7 +48,7 @@ a lightweight cross platform GUI system with pure algorithm
 - [ ] i18n
 
 - responsive grid system
-    - [ ]
+    - [ ] 
 
 - layout
     - [ ] absolutePosition
@@ -78,4 +78,10 @@ a lightweight cross platform GUI system with pure algorithm
 |- [ ] badge            |                       |                       |                       |                       |
 |- [ ] rate             |                       |                       |                       |                       |
 |- [ ] avatar           |                       |                       |                       |                       |
+
+
+
+
+
+
 
