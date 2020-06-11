@@ -1,9 +1,10 @@
 # feather
 a lightweight cross platform GUI system with pure algorithm
 
+写于2020年春节抗疫期间,整理文档,准备开源...
 Written in Spring Festival in 2020(fighting covid-19)
 an based pure Algorithm GUI framework library, sorting out documents, about to open source.
-写于2020年春节抗疫期间,整理文档,准备开源
+
 
 **NOTE: this project is highly experimental for now. use at your own risk.**
 
