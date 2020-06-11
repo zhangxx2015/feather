@@ -11,7 +11,7 @@ an based pure Algorithm GUI framework library, sorting out documents, about to o
 #### Using quickjs to compile components and SDL to realize cross platform application.
 
 ![screenshot](https://github.com/zhangxx2015/feather/blob/master/screenshot/bar+popup.png?raw=true)
-!screenshot](https://github.com/zhangxx2015/feather/blob/master/screenshot/colorPicker.png?raw=true)
+![screenshot](https://github.com/zhangxx2015/feather/blob/master/screenshot/colorPicker.png?raw=true)
 ![screenshot](https://github.com/zhangxx2015/feather/blob/master/screenshot/dialog.png?raw=true)
 ![screenshot](https://github.com/zhangxx2015/feather/blob/master/screenshot/grid+pinyin.png?raw=true)
 ![screenshot](https://github.com/zhangxx2015/feather/blob/master/screenshot/line+ball.png?raw=true)
